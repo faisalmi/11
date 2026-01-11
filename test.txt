@@ -1,1 +1,1 @@
-ACTIVE|2|https://cdn.discordapp.com/attachments/1459752144910417940/1459861477715345490/MemClass.exe?ex=6964d173&is=69637ff3&hm=f97effffeb635ab212c0ce879c0f8da45b6d7406f791ff0f2dda75ce2f073052&
+ACTIVE|1.1.1|https://cdn.discordapp.com/attachments/1459752144910417940/1459861477715345490/MemClass.exe?ex=6964d173&is=69637ff3&hm=f97effffeb635ab212c0ce879c0f8da45b6d7406f791ff0f2dda75ce2f073052&
